@@ -3,7 +3,7 @@
     <property name="created">2019-09-27T09:42:05</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-10-01T13:48:33</property>
+    <property name="modified">2019-10-01T17:02:02</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -546,7 +546,7 @@
     </option>
     <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5d5d5d" />
+        <option name="FOREGROUND" value="4b5263" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
