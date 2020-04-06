@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="Qt Designer" description="Qt Designer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Work\Python\Lessons\venv\Lib\site-packages\pyqt5_tools\Qt\bin\designer.exe" />
+      <option name="COMMAND" value="C:\Program Files (x86)\Qt Designer\designer.exe" />
       <option name="PARAMETERS" value="$FileName$" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
